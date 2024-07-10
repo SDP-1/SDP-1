@@ -1,5 +1,3 @@
-# P. Sehan Devinda
-
 <h1 align="center">Hi 👋, I'm Sehan Devinda </h1>
 <h3 align="center">Undergraduate in SLIIT</h3>
 
