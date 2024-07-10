@@ -1,4 +1,4 @@
-![IMG_2941](https://github.com/SDP-1/SDP-1/assets/98279413/365ebc11-2fb5-41a1-b72b-d3611638f1ce)
+![IMG_2942](https://github.com/SDP-1/SDP-1/assets/98279413/cafaceda-9071-4c38-ba3a-99323bd56560)
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sehan devinda</h2>
