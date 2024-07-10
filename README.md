@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sehan Devinda </h1>
+![IMG_2941](https://github.com/SDP-1/SDP-1/assets/98279413/365ebc11-2fb5-41a1-b72b-d3611638f1ce)
+
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sehan devinda</h2>
 <h3 align="center">Undergraduate in SLIIT</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
