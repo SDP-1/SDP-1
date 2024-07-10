@@ -20,7 +20,8 @@
 
 -  **Don’t study me. You won’t graduate 🎓 I was born to do exactly what I’m doing today**
 
-<h3 align="left">Connect with me:</h3>
+
+### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/sehan-devinda-b172bb256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sehan devinda" height="30" width="40" /></a>
 <a href="[https://fb.com/sehan devinda](https://web.facebook.com/?_rdc=1&_rdr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sehan devinda" height="30" width="40" /></a>
@@ -28,6 +29,7 @@
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -53,6 +55,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
