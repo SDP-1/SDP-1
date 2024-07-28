@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [.net project customer management form](#)
 
-- 🌱 I’m currently learning **.net**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on [pos system for cafe](#)
 
