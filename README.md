@@ -8,13 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdp-1&label=Profile%20views&color=0e75b6&style=flat" alt="sdp-1" /> </p>
 
-- 🔭 I’m currently working on [ocean_rescue](#) / 
-                               [hungry_hippo](#) /
-                              [journey_mate ](#) 
+- 🔭 I’m currently working on [Lerning .NET](#)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on [mobile application development project(flutter / firebase)](#)
+- 👯 I’m looking to collaborate on [.Net projects](#)
 
 - 💬 Ask me about **java😎**
 
